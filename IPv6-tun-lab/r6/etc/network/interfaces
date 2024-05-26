@@ -1,0 +1,20 @@
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+    hwaddress ether 00:14:d1:bb:06:00
+    address 14.209.0.6
+    netmask 255.255.255.0
+    gateway 14.209.0.5
+
+auto eth1
+iface eth1 inet6 static
+    hwaddress ether 00:14:d1:cc:06:01
+    address 2001:0db8:0300:0300:0214:d1ff:fecc:0601
+    netmask 64
+
+up echo 1 > /proc/sys/net/ipv6/conf/all/forwarding
+up route -6 add 2001:db8:400:400::/64 gw 2001:db8:300:300:0214:d1ff:fecc:0700 dev eth1
+up ip addr del fe80::0214:d1ff:febb:0600/64 dev eth0
+

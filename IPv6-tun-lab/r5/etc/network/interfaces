@@ -1,0 +1,19 @@
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+    hwaddress ether 00:14:d1:bb:05:00
+    address 13.209.0.5
+    netmask 255.255.255.0
+    gateway 13.209.0.4
+
+auto eth1
+iface eth1 inet static
+    hwaddress ether 00:14:d1:bb:05:01
+    address 14.209.0.5
+    netmask 255.255.255.0
+
+up ip addr del fe80::0214:d1ff:febb:0500/64 dev eth0
+up ip addr del fe80::0214:d1ff:febb:0501/64 dev eth1
+

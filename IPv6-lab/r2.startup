@@ -1,0 +1,23 @@
+#!/bin/bash
+
+HOST=`hostname`
+
+if [ -d /hostlab/${HOST} ]; then
+        mv /hostlab/${HOST} /hostlab/${HOST}.old
+
+fi
+
+#echo adding ipv6 kernel module
+#modprobe ipv6
+#ip link set eth0 address 00:14:23:aa:d1:66
+#ip link set eth0 up
+#ip link set eth1 address 00:14:23:aa:d1:77
+#ip link set eth1 up
+
+#echo 1 > /proc/sys/net/ipv6/conf/all/forwarding
+
+#/etc/init.d/networking restart
+
+chmod 644 /etc/radvd.conf
+/etc/init.d/radvd start
+

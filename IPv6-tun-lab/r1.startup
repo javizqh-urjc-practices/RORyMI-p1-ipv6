@@ -1,0 +1,12 @@
+#!/bin/bash
+
+HOST=`hostname`
+
+if [ -d /hostlab/${HOST} ]; then
+        mv /hostlab/${HOST} /hostlab/${HOST}.old
+
+fi
+
+chmod 644 /etc/radvd.conf
+/etc/init.d/radvd start
+

@@ -1,0 +1,854 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.10.5)  10 FEB 2024 18:27
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**practica1.tex
+(./practica1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen141
+\enit@toks=\toks17
+\enit@inbox=\box50
+\enit@count@id=\count194
+\enitdp@description=\count195
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count196
+\Gm@cntv=\count197
+\c@Gm@tempcnt=\count198
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count199
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box51
+)
+\tc@llx=\dimen150
+\tc@lly=\dimen151
+\tc@urx=\dimen152
+\tc@ury=\dimen153
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen154
+\adjbox@Height=\dimen155
+\adjbox@Depth=\dimen156
+\adjbox@Totalheight=\dimen157
+\adjbox@pwidth=\dimen158
+\adjbox@pheight=\dimen159
+\adjbox@pdepth=\dimen160
+\adjbox@ptotalheight=\dimen161
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count266
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box52
+\sift@deathcycles=\count267
+\@vwid@loff=\dimen162
+\@vwid@roff=\dimen163
+))
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box53
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen164
+\ttl@minus=\dimen165
+\ttl@toksa=\toks21
+\titlewidth=\dimen166
+\titlewidthlast=\dimen167
+\titlewidthfirst=\dimen168
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box54
+)
+(./practica1.aux)
+\openout1 = `practica1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen169
+\scratchbox=\box55
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen170
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 422.52252pt, 89.62709pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=422.52252pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images//logo.jpg, id=1, 632.3625pt x 321.2pt>
+File: images//logo.jpg Graphic file (type jpg)
+<use images//logo.jpg>
+Package pdftex.def Info: images//logo.jpg  used on input line 16.
+(pdftex.def)             Requested size: 126.75804pt x 64.38098pt.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./images//logo.jpg>]
+(./practica1.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `practica1.toc'.
+
+ [1
+
+]
+Chapter 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+
+ []
+
+<images//fig1.png, id=15, 665.48625pt x 584.1825pt>
+File: images//fig1.png Graphic file (type png)
+<use images//fig1.png>
+Package pdftex.def Info: images//fig1.png  used on input line 51.
+(pdftex.def)             Requested size: 295.76447pt x 259.63503pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--73
+
+ []
+
+[2
+
+]
+<images//ej5_1_1.png, id=22, 1465.475pt x 21.07875pt>
+File: images//ej5_1_1.png Graphic file (type png)
+<use images//ej5_1_1.png>
+Package pdftex.def Info: images//ej5_1_1.png  used on input line 83.
+(pdftex.def)             Requested size: 422.52252pt x 6.07729pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 83--84
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--87
+
+ []
+
+[3 <./images//fig1.png> <./images//ej5_1_1.png>]
+<images//ej7_1_1.png, id=28, 1461.46pt x 127.47626pt>
+File: images//ej7_1_1.png Graphic file (type png)
+<use images//ej7_1_1.png>
+Package pdftex.def Info: images//ej7_1_1.png  used on input line 91.
+(pdftex.def)             Requested size: 422.52252pt x 36.85434pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 91--92
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+
+ []
+
+<images//ej8_1_1.png, id=29, 1461.46pt x 127.47626pt>
+File: images//ej8_1_1.png Graphic file (type png)
+<use images//ej8_1_1.png>
+Package pdftex.def Info: images//ej8_1_1.png  used on input line 98.
+(pdftex.def)             Requested size: 422.52252pt x 36.85434pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 98--99
+ [] 
+ []
+
+[4 <./images//ej7_1_1.png> <./images//ej8_1_1.png>]
+<images//ej11_1_1.png, id=35, 1461.46pt x 127.47626pt>
+File: images//ej11_1_1.png Graphic file (type png)
+<use images//ej11_1_1.png>
+Package pdftex.def Info: images//ej11_1_1.png  used on input line 119.
+(pdftex.def)             Requested size: 422.52252pt x 36.85434pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 119--120
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+
+Overfull \hbox (27.33253pt too wide) in paragraph at lines 124--125
+[]\OT1/cmr/m/n/12 Si procesa el men-saje pc2 ya que la di-recci^^Son Eth-er-net
+ de des-tino es 33:33:ff:aa:d1:22
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
+
+ []
+
+
+Overfull \hbox (29.45612pt too wide) in paragraph at lines 127--128
+\OT1/cmr/m/n/12 es fe80::214:23ff:feaa:d122 que es dis-tinta de la de pc2 que e
+s fe80::213:22ff:feaa:d122. 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+
+ []
+
+[5 <./images//ej11_1_1.png>]
+<images//ej3_1_2.png, id=40, 1048.91875pt x 233.87375pt>
+File: images//ej3_1_2.png Graphic file (type png)
+<use images//ej3_1_2.png>
+Package pdftex.def Info: images//ej3_1_2.png  used on input line 145.
+(pdftex.def)             Requested size: 422.52252pt x 94.20802pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 145--146
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+
+ []
+
+<images//ej4_1_2.png, id=41, 1039.885pt x 272.01625pt>
+File: images//ej4_1_2.png Graphic file (type png)
+<use images//ej4_1_2.png>
+Package pdftex.def Info: images//ej4_1_2.png  used on input line 152.
+(pdftex.def)             Requested size: 422.52252pt x 110.52292pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 152--153
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+
+ []
+
+<images//ej5_1_2.png, id=42, 893.3375pt x 274.02374pt>
+File: images//ej5_1_2.png Graphic file (type png)
+<use images//ej5_1_2.png>
+Package pdftex.def Info: images//ej5_1_2.png  used on input line 159.
+(pdftex.def)             Requested size: 422.52252pt x 129.60652pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 159--160
+ [] 
+ []
+
+[6 <./images//ej3_1_2.png> <./images//ej4_1_2.png>]
+Overfull \hbox (6.19614pt too wide) in paragraph at lines 166--167
+[]\OT1/cmr/m/n/12 M^^Saquina de ori-gen: pc1 ; Eth-er-net de des-tino: 00:14:23
+:aa:d1:22; M^^Saquina
+ []
+
+
+Overfull \hbox (6.19614pt too wide) in paragraph at lines 167--168
+[]\OT1/cmr/m/n/12 M^^Saquina de ori-gen: pc2 ; Eth-er-net de des-tino: 00:14:23
+:aa:d1:11; M^^Saquina
+ []
+
+
+Overfull \hbox (1.30035pt too wide) in paragraph at lines 168--169
+[]\OT1/cmr/m/n/12 M^^Saquina de ori-gen: pc3 ; Eth-er-net de des-tino: 33:33:ff
+:aa:d1:11; M^^Saquina
+ []
+
+
+Overfull \hbox (6.19614pt too wide) in paragraph at lines 169--170
+[]\OT1/cmr/m/n/12 M^^Saquina de ori-gen: pc1 ; Eth-er-net de des-tino: 00:14:22
+:aa:d1:22; M^^Saquina
+ []
+
+
+Overfull \hbox (6.19614pt too wide) in paragraph at lines 170--171
+[]\OT1/cmr/m/n/12 M^^Saquina de ori-gen: pc2 ; Eth-er-net de des-tino: 00:14:23
+:aa:d1:11; M^^Saquina
+ []
+
+
+Overfull \hbox (6.19614pt too wide) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/12 M^^Saquina de ori-gen: pc1 ; Eth-er-net de des-tino: 00:14:23
+:aa:d1:22; M^^Saquina
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--177
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--182
+
+ []
+
+[7 <./images//ej5_1_2.png>]
+<images//ej8_1_1_2.png, id=53, 780.9175pt x 76.285pt>
+File: images//ej8_1_1_2.png Graphic file (type png)
+<use images//ej8_1_1_2.png>
+Package pdftex.def Info: images//ej8_1_1_2.png  used on input line 185.
+(pdftex.def)             Requested size: 422.52252pt x 41.27475pt.
+<images//ej8_2_1_2.png, id=54, 773.89125pt x 55.20625pt>
+File: images//ej8_2_1_2.png Graphic file (type png)
+<use images//ej8_2_1_2.png>
+Package pdftex.def Info: images//ej8_2_1_2.png  used on input line 186.
+(pdftex.def)             Requested size: 422.52252pt x 30.14113pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 185--187
+ [] 
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 185--187
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--189
+
+ []
+
+<images//ej9_1_2.png, id=55, 773.89125pt x 55.20625pt>
+File: images//ej9_1_2.png Graphic file (type png)
+<use images//ej9_1_2.png>
+Package pdftex.def Info: images//ej9_1_2.png  used on input line 192.
+(pdftex.def)             Requested size: 422.52252pt x 30.14113pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 192--193
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--206
+
+ []
+
+[8 <./images//ej8_1_1_2.png> <./images//ej8_2_1_2.png> <./images//ej9_1_2.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--239
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
+
+ []
+
+[9]
+<images//ej4_2_1_3.png, id=65, 814.04124pt x 57.21375pt>
+File: images//ej4_2_1_3.png Graphic file (type png)
+<use images//ej4_2_1_3.png>
+Package pdftex.def Info: images//ej4_2_1_3.png  used on input line 246.
+(pdftex.def)             Requested size: 422.52252pt x 29.6963pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 246--247
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--251
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 254--255
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--259
+
+ []
+
+<images//ej6_1_1_3.png, id=66, 816.04875pt x 213.79875pt>
+File: images//ej6_1_1_3.png Graphic file (type png)
+<use images//ej6_1_1_3.png>
+Package pdftex.def Info: images//ej6_1_1_3.png  used on input line 262.
+(pdftex.def)             Requested size: 422.52252pt x 110.69968pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 262--262
+ [] 
+ []
+
+<images//ej6_2_1_3.png, id=67, 816.04875pt x 213.79875pt>
+File: images//ej6_2_1_3.png Graphic file (type png)
+<use images//ej6_2_1_3.png>
+Package pdftex.def Info: images//ej6_2_1_3.png  used on input line 263.
+(pdftex.def)             Requested size: 422.52252pt x 110.69968pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 263--263
+ [][] 
+ []
+
+[10 <./images//ej4_2_1_3.png> <./images//ej6_1_1_3.png>]
+<images//ej6_3_1_3.png, id=73, 926.46124pt x 206.7725pt>
+File: images//ej6_3_1_3.png Graphic file (type png)
+<use images//ej6_3_1_3.png>
+Package pdftex.def Info: images//ej6_3_1_3.png  used on input line 264.
+(pdftex.def)             Requested size: 422.52252pt x 94.30247pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 264--264
+ [][] 
+ []
+
+<images//ej6_4_1_3.png, id=74, 921.4425pt x 161.60374pt>
+File: images//ej6_4_1_3.png Graphic file (type png)
+<use images//ej6_4_1_3.png>
+Package pdftex.def Info: images//ej6_4_1_3.png  used on input line 265.
+(pdftex.def)             Requested size: 422.52252pt x 74.1019pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 265--265
+ [][] 
+ []
+
+<images//ej6_5_1_3.png, id=75, 240.9pt x 51.19125pt>
+File: images//ej6_5_1_3.png Graphic file (type png)
+<use images//ej6_5_1_3.png>
+Package pdftex.def Info: images//ej6_5_1_3.png  used on input line 269.
+(pdftex.def)             Requested size: 126.75804pt x 26.93594pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 282--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--287
+
+ []
+
+[11 <./images//ej6_2_1_3.png> <./images//ej6_3_1_3.png> <./images//ej6_4_1_3.pn
+g> <./images//ej6_5_1_3.png>]
+<images//ej8_1_1_3.png, id=83, 1277.77374pt x 321.2pt>
+File: images//ej8_1_1_3.png Graphic file (type png)
+<use images//ej8_1_1_3.png>
+Package pdftex.def Info: images//ej8_1_1_3.png  used on input line 288.
+(pdftex.def)             Requested size: 422.52252pt x 106.21198pt.
+<images//ej8_2_1_3.png, id=84, 1277.77374pt x 321.2pt>
+File: images//ej8_2_1_3.png Graphic file (type png)
+<use images//ej8_2_1_3.png>
+Package pdftex.def Info: images//ej8_2_1_3.png  used on input line 289.
+(pdftex.def)             Requested size: 422.52252pt x 106.21198pt.
+<images//ej8_3_1_3.png, id=85, 1277.77374pt x 321.2pt>
+File: images//ej8_3_1_3.png Graphic file (type png)
+<use images//ej8_3_1_3.png>
+Package pdftex.def Info: images//ej8_3_1_3.png  used on input line 290.
+(pdftex.def)             Requested size: 422.52252pt x 106.21198pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 288--291
+[][] 
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 288--291
+[] 
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 288--291
+[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--294
+
+ []
+
+<images//ej9_1_3.png, id=86, 1046.91125pt x 553.06625pt>
+File: images//ej9_1_3.png Graphic file (type png)
+<use images//ej9_1_3.png>
+Package pdftex.def Info: images//ej9_1_3.png  used on input line 296.
+(pdftex.def)             Requested size: 422.52252pt x 223.20576pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 295--297
+[] 
+ []
+
+[12 <./images//ej8_1_1_3.png> <./images//ej8_2_1_3.png> <./images//ej8_3_1_3.pn
+g>]
+Underfull \hbox (badness 10000) in paragraph at lines 297--298
+
+ []
+
+<images//ej1_1_2.png, id=94, 1136.245pt x 389.455pt>
+File: images//ej1_1_2.png Graphic file (type png)
+<use images//ej1_1_2.png>
+Package pdftex.def Info: images//ej1_1_2.png  used on input line 309.
+(pdftex.def)             Requested size: 422.52252pt x 144.82108pt.
+<images//ej1_2_2.png, id=95, 1136.245pt x 389.455pt>
+File: images//ej1_2_2.png Graphic file (type png)
+<use images//ej1_2_2.png>
+Package pdftex.def Info: images//ej1_2_2.png  used on input line 310.
+(pdftex.def)             Requested size: 422.52252pt x 144.82108pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 306--311
+[]
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 306--311
+[] 
+ []
+
+[13 <./images//ej9_1_3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 311--315
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 316--317
+
+ []
+
+[14 <./images//ej1_1_2.png> <./images//ej1_2_2.png>]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 325--328
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--339
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--344
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--349
+
+ []
+
+[15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 354--357
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 358--359
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 360--361
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 362--363
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--368
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 369--372
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 374--375
+
+ []
+
+[16]
+Chapter 3.
+<images//fig2.png, id=112, 2477.255pt x 1706.375pt>
+File: images//fig2.png Graphic file (type png)
+<use images//fig2.png>
+Package pdftex.def Info: images//fig2.png  used on input line 389.
+(pdftex.def)             Requested size: 422.52252pt x 291.04329pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 392--397
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 398--400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 401--403
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--408
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 408--409
+
+ []
+
+[17
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 419--423
+
+ []
+
+<images//ej3_3.png, id=116, 1294.8375pt x 777.90625pt>
+File: images//ej3_3.png Graphic file (type png)
+<use images//ej3_3.png>
+Package pdftex.def Info: images//ej3_3.png  used on input line 424.
+(pdftex.def)             Requested size: 422.52252pt x 253.83734pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 424--425
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--425
+
+ []
+
+[18 <./images//fig2.png>] [19 <./images//ej3_3.png>] [20]
+Underfull \hbox (badness 10000) in paragraph at lines 514--516
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 531--534
+
+ []
+
+<images//ej10_3.png, id=132, 1125.20375pt x 186.6975pt>
+File: images//ej10_3.png Graphic file (type png)
+<use images//ej10_3.png>
+Package pdftex.def Info: images//ej10_3.png  used on input line 543.
+(pdftex.def)             Requested size: 422.52252pt x 70.1054pt.
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 541--545
+[]
+ []
+
+[22 <./images//ej10_3.png>] (./practica1.aux) ) 
+Here is how much of TeX's memory you used:
+ 3944 strings out of 478287
+ 66673 string characters out of 5849289
+ 365537 words of memory out of 5000000
+ 22116 multiletter control sequences out of 15000+600000
+ 476114 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,6n,62p,364b,463s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvip
+s/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+2.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/t
+exmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on practica1.pdf (23 pages, 3139439 bytes).
+PDF statistics:
+ 173 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+

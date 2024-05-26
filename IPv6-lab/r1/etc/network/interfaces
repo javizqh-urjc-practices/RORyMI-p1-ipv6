@@ -1,0 +1,19 @@
+auto lo
+iface lo inet loopback
+
+
+
+auto eth0
+iface eth0 inet6 static
+    hwaddress ether 00:14:23:aa:d1:44
+    address 2001:0db8:0100:0100:0214:23ff:feaa:d144
+    netmask 64
+
+auto eth1
+iface eth1 inet6 static
+    hwaddress ether 00:14:23:aa:d1:55
+    address 2001:0db8:0200:0200:0214:23ff:feaa:d155
+    netmask 64
+
+up echo 1 > /proc/sys/net/ipv6/conf/all/forwarding
+

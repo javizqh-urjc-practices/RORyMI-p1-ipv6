@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ip link set eth0 address 00:14:22:cc:d1:04
+ip link set eth0 up
+

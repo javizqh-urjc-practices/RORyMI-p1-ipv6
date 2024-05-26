@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ifconfig eth0 hw ether 00:14:23:aa:d1:88
+ifconfig eth0 up
